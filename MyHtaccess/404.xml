@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ErrorDocument>
+  <ErrorText>
+    Error 404 <img src="/404.png"></img>
+  </ErrorText>
+  <ErrorContents>
+    404 Page not found. You Can
+    <hi xlink:type="simple" xlink:href="index.html">Go To The Homepage</hi>
+    Though!
+  </ErrorContents>
+</ErrorDocument>
